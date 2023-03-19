@@ -5,4 +5,7 @@ package org.mar.java;
 // Author:3284473431@qq.com
 //create in 2023/03/18 11:04 星期六
 public class test {
+    public static void main(String[] args) {
+        System.out.println("Hello!Git");
+    }
 }
